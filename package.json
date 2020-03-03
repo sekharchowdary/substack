@@ -1,5 +1,5 @@
 {
-  "name": "kudos-works",
+  "name": "mocha-works",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {},
@@ -12,6 +12,6 @@
   },
   "scripts": {
     "start": "index.js",
-    "test": "kudos"
+    "test": "mocha"
   }
 }
